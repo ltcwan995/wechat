@@ -1,0 +1,7 @@
+<view class="container">
+  <text>{{name}}</text>
+  <text>{{age}}</text>
+  <text bindtap="changeClick">晓东</text>
+  <text bindtap="changeClick1">铁城</text>
+  <text bindtap="load">进入测试页面</text>
+</view>

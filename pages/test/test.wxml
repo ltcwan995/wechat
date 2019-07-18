@@ -1,0 +1,3 @@
+<!--pages/test/test.wxml-->
+<text>{{name}}:{{age}}</text>
+<text bindtap="changedata">小红</text>
